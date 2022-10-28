@@ -1,0 +1,21 @@
+p{
+    width: fit-content;
+    color: white;
+    background-color: black;
+}
+h1{
+    width: fit-content;
+    border: 2px solid darkgrey ;
+    color: darkgray;
+    background-color: black;
+}
+h2{
+    color:  white;
+}
+body
+{
+    background-color: black;
+    background-image: url("milky.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
